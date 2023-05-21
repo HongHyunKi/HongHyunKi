@@ -2,9 +2,8 @@
     
 ## 💻 Web Developer 💻
     
-    Hi there! I'm student of Sunmoon University :>
-    I develop the web using React, Java Spring, and other languages.
-    My dream is to make the best web in the world.😆
+    Hi there! I'm Front-End Developer 😊
+    Blog : https://hyunki99.tistory.com/
 <br/>
 
 ## 🧾 Tech Stacks 🧾
@@ -18,8 +17,11 @@
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
 <br/>
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongHyunKi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<br/> -->
 
+<!-- 백준프로필
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qksw5592)](https://solved.ac/qksw5592/)
-<center>
+<center> 
+-->
