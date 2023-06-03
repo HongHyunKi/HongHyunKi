@@ -1,10 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align=center>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+<br><br>
+    
+✔ Welcome to my page! I'm <Strong>HyunKi</Strong>, My dream is to become a great <Strong>full-stack developer</Strong>
 
-✔Welcome to my page!
-I'm HyunKi, My dream is to become a great full-stack developer
-
+</div>
 <br>
 
 ##  📚Tech Stacks
@@ -26,4 +29,19 @@ I'm HyunKi, My dream is to become a great full-stack developer
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+</div>
+<br>
+
+## 🙋‍♂️Contact
+<div align=center>
+    <a href="https://www.instagram.com/h_hyun_99/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="https://hyunki99.tistory.com/">
+        <img 
+            src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 </div>
