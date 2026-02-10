@@ -56,9 +56,6 @@
   <a href="https://hyunki99.tistory.com/">
     <img src="https://img.shields.io/badge/Tech_Blog-655ced?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/h_hyun_99/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </div>
 
 ---
