@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-  <br>
-  <p><strong>A Software Engineer who dreams of building services that people love.</strong></p>
 </div>
 
 <br>
