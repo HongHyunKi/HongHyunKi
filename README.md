@@ -48,7 +48,7 @@
   <a href="https://nextjs-resume-kohl.vercel.app/">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </a>
-  <a href="https://shorthaired-silicon-601.notion.site/8fe69553d263438fae472504726f9cdf">
+  <a href="https://hyunki.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://hyunki99.tistory.com/">
